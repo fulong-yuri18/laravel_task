@@ -1,0 +1,10 @@
+①PHP
+②Model
+③View
+④Controller
+⑤リクエスト
+⑥CREATE
+⑦READ
+⑧UPDATE
+⑨ルーティング
+⑩Blade
